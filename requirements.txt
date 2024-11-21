@@ -1,0 +1,9 @@
+aiogram~=2.22.2
+asyncio
+odesli
+pyyaml
+requests
+rich
+spotipy
+youtube-search-python
+yt_dlp

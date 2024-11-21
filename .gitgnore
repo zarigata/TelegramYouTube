@@ -1,0 +1,7 @@
+__pycache__/
+cache/
+.cache
+.idea
+
+config.yml
+cookies.txt
